@@ -1,0 +1,30 @@
+.container{
+    
+}
+.navbar{
+    flex-direction: column;
+}
+nav ul li a{
+    
+}
+.servicebox{
+    flex-direction: column;
+    align-items: center;
+}
+.threebox{
+    width: 70%;
+    font-size: 1.5rem;
+    margin: 20px;
+}
+.threebox img{
+
+}
+.top-last-box{
+    
+}
+.infoform{
+    width: 50%;
+}
+.foothead{
+    flex-wrap: wrap;
+}
